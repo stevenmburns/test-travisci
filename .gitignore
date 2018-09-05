@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__/
+.cache/
+.pytest_cache/
+.tox/
+build/
+dist/
+test_travisci.egg-info/
